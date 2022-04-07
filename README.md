@@ -1,7 +1,3 @@
-<a href = "https://amySpark-ng.github.io">
-	<img src = "amulogo.gif">
-</a>
-
 ## > Introduction ☂️
 heyo! I'm Touko, using GitHub to share my projects with other people and because open source is very cool
 
